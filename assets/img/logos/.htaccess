@@ -1,0 +1,7 @@
+# AkoNet - Logos directory
+# Only allow image files to be served; block PHP execution.
+<FilesMatch "\.(php|php5|phtml|shtml)$">
+    deny from all
+</FilesMatch>
+
+Options -Indexes
