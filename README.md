@@ -6,6 +6,10 @@
 
 **AkoNet Web Monitor** is a professional, full-stack application designed to track the real-time status, latency, and packet loss of internet service providers and corporate infrastructure. Built with a robust PHP backend and a stunning modern frontend, it offers unparalleled visibility into network health.
 
+## 📸 Preview
+
+![AkoNet Web Monitor Dashboard](assets/img/preview.png)
+
 ## ✨ Key Features
 
 - **📊 Real-time Dashboard** — Live tracking of provider status, ping response times, and packet loss.
